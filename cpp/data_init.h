@@ -3,6 +3,7 @@
 
 #include "modelParam.h"
 
+//test
 // 将原 verify.cpp 中的数据初始化提取到单独文件中
 ModelParams setParams(int numBerths, int numShips);
 
