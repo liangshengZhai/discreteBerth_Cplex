@@ -1,0 +1,4 @@
+ship,transshipment_cost,storage_cost,berth_time,alpha,beta,weighted_contribution
+0,2.08645e+06,6086,15.4484,1,20000,2.40151e+06
+1,2.28987e+06,2965,21.0947,1,20000,2.71473e+06
+2,1.39894e+06,3154,10.8793,1,20000,1.61968e+06
